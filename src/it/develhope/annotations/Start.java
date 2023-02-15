@@ -1,6 +1,5 @@
 package it.develhope.annotations;
 
-import it.develhope.annotations.Car;
 
 /**
  * This is a Tester class

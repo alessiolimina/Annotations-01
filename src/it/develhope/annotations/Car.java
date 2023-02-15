@@ -41,7 +41,7 @@ public class Car {
 
     public void getCarDetails(){
         System.out.printf("The model name is %s %n", modelName);
-        System.out.printf("This car has traveled for miles %d %n", mileAge);
+        System.out.printf("This car has traveled for %d miles %n", mileAge);
     }
 }
 

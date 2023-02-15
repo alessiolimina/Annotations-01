@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.develhope.annotations","l":"Car"},{"p":"it.develhope.annotations","l":"Start"}];updateSearchResults();
